@@ -18,7 +18,7 @@
 <a href="https://stackoverflow.com/users/jatin thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jatin thakur" height="30" width="40" /></a>
 <a href="https://fb.com/jatin kreik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jatin kreik" height="30" width="40" /></a>
 <a href="https://instagram.com/jatin7270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatin7270" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mountaingoat.95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mountaingoat.95" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCU7R4u1pCqLCRP_BNJY-iCQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mountaingoat.95" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jatinkreik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatinkreik" height="30" width="40" /></a>
 </p>
 
