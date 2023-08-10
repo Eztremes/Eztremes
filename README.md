@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eztremes&show_icons=true&locale=en&layout=compact" alt="eztremes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eztremes&show_icons=true&locale=en" alt="eztremes" /></p>
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eztremes&layout=compact&langs_count=16&theme=dracula"/>
